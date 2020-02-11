@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='iki',
-    version='0.1',
+    version='0.0.9',
     description='Javanesse version of import this.',
     url='http://github.com/ismailsunni/iki',
     author='Ismail Sunni',
