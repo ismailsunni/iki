@@ -5,10 +5,10 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name='iki',
-    version='0.0.9',
+    version='0.1.0',
     author='Ismail Sunni',
     author_email='imajimatika@gmail.com',
-    description='Javanese version of `import this`.',
+    description='Javanese version of import this.',
     long_description=long_description,
     long_description_content_type="text/markdown",
     url='http://github.com/ismailsunni/iki',
