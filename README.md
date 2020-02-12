@@ -2,9 +2,11 @@
 
 `import this` versi Basa Jawa
 
-## Carane Nginstall
+[![PyPI version](https://badge.fury.io/py/iki.svg)](https://badge.fury.io/py/itu) ![PyPI - Downloads](https://img.shields.io/pypi/dm/iki)
 
-```python
+## Carane Masang
+
+```bash
 pip install iki
 ```
 
@@ -14,9 +16,9 @@ pip install iki
 import iki
 ```
 
-## Njedhule:
+## Njedhule
 
-```python
+```bash
 The Zen of Python, dening Tim Peters
 
 Ayu luwih becik tinimbang elek.
@@ -44,4 +46,10 @@ Dijarwakake dening Ismail Sunni.
 
 ## Pengin Bantu Ben Luwih Apik
 
-Mangga mawon, kula seneng. Nanging commit message kudu nganggo Basa Jawa.
+Mangga mawon, kula malah seneng. Isa buka _Pull Request_ utawa ngandhani yen ono sing kleru.
+
+## Pitakonan Sing Kerep Ditakonke
+
+**Pitakon:** Kok gawe `iki`?
+
+**Wangsulan:** Yo gur nggo seneng-seneng wae, sapa ngerti isa migunani
